@@ -22,7 +22,7 @@ export default function Projects() {
       period: "Jan'24 - May'24",
       tags: ["Computer Vision", "Medical Imaging", "CNN", "Transfer Learning"],
       links: {
-        github: "https://github.com",
+        github: "https://github.com/rajput-tarun/CareVisionAi",
         live: ""
       }
     },
@@ -31,9 +31,9 @@ export default function Projects() {
       description: "Fine-tuned Llama2-7b model on a custom dataset from the Medical Encyclopedia to develop a healthcare chatbot.",
       achievements: "Employed QLoRA, 4-bit quantization, and Hugging Face libraries for parameter-efficient fine-tuning, resulting in 50% lower RAM usage and 400% faster training times.",
       period: "Jan'24 - Apr'24",
-      tags: ["LLMs", "QLoRA", "Healthcare", "Chatbot"],
+      tags: ["LLMs", "QLoRA", "Fintuning", "Chatbot"],
       links: {
-        github: "https://github.com",
+        github: "https://github.com/rajput-tarun",
         live: ""
       }
     },
@@ -44,7 +44,7 @@ export default function Projects() {
       period: "Aug'23 - Nov'23",
       tags: ["Machine Learning", "EDA", "Random Forest", "Classification"],
       links: {
-        github: "https://github.com",
+        github: "https://github.com/rajput-tarun",
         live: ""
       }
     }
@@ -129,7 +129,7 @@ export default function Projects() {
             These projects represent a subset of my work. For a complete overview of my projects and contributions, please visit my GitHub.
           </p>
           <a 
-            href="https://github.com/" 
+            href="https://github.com/rajput-tarun" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="btn btn-outline inline-flex items-center"
