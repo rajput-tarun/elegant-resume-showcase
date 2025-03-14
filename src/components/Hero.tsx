@@ -69,7 +69,7 @@ export default function Hero() {
               <div className="relative w-full h-full rounded-full overflow-hidden border-2 border-border p-1">
                 <div className="w-full h-full rounded-full overflow-hidden bg-muted">
                   <img 
-                    src="/tarun_img.jpg"  
+                    src="/public/tarun_img.jpg"  
                     alt="Tarun Kumar" 
                     className="w-full h-full object-cover"
                   />
